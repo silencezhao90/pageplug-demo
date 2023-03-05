@@ -1,0 +1,97 @@
+{
+  "unpublishedPage": {
+    "name": "Page1",
+    "slug": "page1",
+    "layouts": [
+      {
+        "viewMode": false,
+        "dsl": {
+          "widgetName": "MainContainer",
+          "backgroundColor": "none",
+          "rightColumn": 4896,
+          "snapColumns": 64,
+          "detachFromLayout": true,
+          "widgetId": "0",
+          "topRow": 0,
+          "bottomRow": 1290,
+          "containerStyle": "none",
+          "snapRows": 125,
+          "parentRowSpace": 1,
+          "type": "CANVAS_WIDGET",
+          "canExtend": true,
+          "version": 71,
+          "minHeight": 1292,
+          "dynamicTriggerPathList": [],
+          "parentColumnSpace": 1,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0,
+          "children": [
+            {
+              "widgetName": "form1",
+              "isCanvas": false,
+              "displayName": "表单",
+              "iconSVG": "/static/media/icon.ea3e08d130e59c56867ae40114c10eed.svg",
+              "searchTags": [
+                "form"
+              ],
+              "topRow": 26,
+              "bottomRow": 50,
+              "fieldsObj": {
+                "user": {
+                  "label": "logo设计",
+                  "id": "user",
+                  "name": "user",
+                  "widgetId": "",
+                  "fieldType": "input",
+                  "required": true,
+                  "inputType": "text",
+                  "index": 0
+                },
+                "password": {
+                  "label": "密码",
+                  "id": "password",
+                  "name": "password",
+                  "widgetId": "",
+                  "fieldType": "input",
+                  "required": true,
+                  "inputType": "password",
+                  "index": 1
+                }
+              },
+              "parentRowSpace": 10,
+              "type": "TARO_FORM_WIDGET",
+              "hideCard": false,
+              "parentColumnSpace": 6.84375,
+              "dynamicTriggerPathList": [],
+              "leftColumn": 4,
+              "dynamicBindingPathList": [],
+              "isMobile": true,
+              "key": "pz9z1kwjz6",
+              "isDeprecated": false,
+              "rightColumn": 60,
+              "widgetId": "vtiyrb6ica",
+              "isVisible": true,
+              "version": 1,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false
+            }
+          ]
+        },
+        "layoutOnLoadActions": [],
+        "layoutOnLoadActionErrors": [],
+        "validOnPageLoadActions": true,
+        "id": "Page1",
+        "deleted": false,
+        "policies": [],
+        "userPermissions": []
+      }
+    ],
+    "userPermissions": [],
+    "policies": [],
+    "isHidden": false,
+    "icon": ""
+  },
+  "deleted": false,
+  "gitSyncId": "640455932bd37034fae410f8_640455942bd37034fae410fa"
+}
